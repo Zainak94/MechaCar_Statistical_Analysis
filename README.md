@@ -47,15 +47,19 @@ Below are the 3-sample population mean, and comparisons of all three lots.
 However, we need to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis with respect to population mean of 1500. 
 
 ![MechaCar_Statistical_Analysis](https://github.com/Zainak94/MechaCar_Statistical_Analysis/blob/main/Resources/t_test_1500.PNG).
+
 •	In the above t-test with respect to population mean, the t-value is not 0 and P value is greater than 0.05% which means we fail to reject the null hypothesis. There is not enough evidence to reject the null hypothesis.
 
 ![MechaCar_Statistical_Analysis](https://github.com/Zainak94/MechaCar_Statistical_Analysis/blob/main/Resources/lot_1_1500.PNG).
+
 •	In the above t-test of lot1 with respect to population mean, the t-value is equal to 0 and P value is 1 which means the null hypothesis is true. 
 
 ![MechaCar_Statistical_Analysis](https://github.com/Zainak94/MechaCar_Statistical_Analysis/blob/main/Resources/lot_2_1500.PNG).
+
 •	In the above t-test of lot2 with respect to population mean, the t-value is not 0 and P value is greater than 0.05% which means we fail to reject the null hypothesis. There is not enough evidence to reject the null hypothesis.
 
 ![MechaCar_Statistical_Analysis](https://github.com/Zainak94/MechaCar_Statistical_Analysis/blob/main/Resources/lot_3_1500.PNG).
+
 •	In the above t-test of lot3 with respect to population mean, the t-value is not 0 and P value is less than 0.05% which means we reject the null hypothesis. 
 
 ## Study Design: MechaCar vs Competition
