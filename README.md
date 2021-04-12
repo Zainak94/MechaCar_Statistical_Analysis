@@ -29,15 +29,19 @@ Based on our previous analysis on suspension coils, Lot 3 has not respected its 
 Below are the 3-sample population mean, and comparisons of all three lots. 
 
 ![MechaCar_Statistical_Analysis](https://github.com/Zainak94/MechaCar_Statistical_Analysis/blob/main/Resources/t-test.PNG).
+
 •	As per t-test results; t-value is 0 and P-value is 1 which means null hypothesis is true. The mean value is 1498.78. 
 
 ![MechaCar_Statistical_Analysis](https://github.com/Zainak94/MechaCar_Statistical_Analysis/blob/main/Resources/lot_1.PNG).
+
 •	As per t-test results for lot 1: P-value is less than 0.05 which means that we reject the null hypothesis. The null hypothesis is false. 
 
 ![MechaCar_Statistical_Analysis](https://github.com/Zainak94/MechaCar_Statistical_Analysis/blob/main/Resources/lot_2.PNG).
+
 •	As per t-test results for lot 2: P-value is less than 0.05 which means that we reject the null hypothesis. The null hypothesis is false. 
 
 ![MechaCar_Statistical_Analysis](https://github.com/Zainak94/MechaCar_Statistical_Analysis/blob/main/Resources/lot_3.PNG).
+
 •	As per t-test results for lot 3: P-value is less than 0.05 which means that we reject the null hypothesis. The null hypothesis is false. 
 
 However, we need to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis with respect to population mean of 1500. 
